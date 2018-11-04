@@ -1,15 +1,15 @@
 INTRODUCTION
 
+Player: 2-4
+Age: 6+
+
 A racing boardgame, based on the Berlin public transport system, in which players aim to become the first to arrive at their destination. Inspired by our collective experience that using public transport means driving without having any control on random occasions. After playing this game you might be  a pro in berlin public transport map.
 The purpose of this boardgame is to entertain and educate all participants. Moreover, it can serve as a team building exercise with real life value for many international citizens who flock to this vibrant city.2-4 player
-2-4 player
 
 START
 
 All players start at Hauptbahnhof.
-
 Everyone picks up 3 destination cards and chooses one card. The 2 cards go back to the deck.
-
 Everyone picks ups 3 actioncards.
 
 GAME PLAY
