@@ -15,7 +15,9 @@ Assets include cards and the playing board.
 
 ### Cards
 
-Card prototypes can be found in [this file](./Assets/Spielkarten_prototyp.pdf)
+Card prototypes can be found in [this file](./Assets/Spielkarten_prototyp.pdf).
+
+Station signs are in this [signs cutouts file](./Assets/station_signs_to_print_and_cutout.pdf).
 
 ### Board map
 
