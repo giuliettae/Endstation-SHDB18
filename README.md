@@ -7,7 +7,7 @@ Open Source Public Transport Game developed at Science Hack Day Berlin 2018
 
 ## Game development
 
-The rules of the game are detailed in the ![Rules.md]() file.
+The rules of the game are detailed in the ![Rules.md](Rules.md) file.
 
 ## Assets
 
@@ -15,14 +15,14 @@ Assets include cards and the playing board.
 
 ### Cards
 
-Card prototypes can be found in the [](./Assets/Spielkarten_prototyp.pdf)
+Card prototypes can be found in [this file](./Assets/Spielkarten_prototyp.pdf)
 
 ### Board map
 
 The playing board was created from an official Berlin transport map
 at [this page](http://www.bvg.de/de/Fahrinfo/Downloads/BVG-Liniennetz).
 
-A PDF image was imported in [InkScape](www.inkscape.org) and simplified to
+A PDF image was imported in ![InkScape](www.inkscape.org) and simplified to
 fit the needs of the game.
 
 A monochrome version was used to engrave the board using a laser cutter.
