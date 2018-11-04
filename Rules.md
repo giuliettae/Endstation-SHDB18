@@ -71,6 +71,6 @@ Before you walk your steps everyone should play a card (if they want to). The pe
 
 If you meet at a station you can say cheers to the beer and get an extra point each.
 
-If you end up far away out on a line, f.e. close to Spandau or Hönow, you can also use your next steps to go to a permanent Endstation and get extra points.
+If you end up far away out on a line, e.g. close to Spandau or Hönow, you can also use your next steps to go to a permanent Endstation and get extra points.
 
 If you want to visit the amazing ghoastsation of BBI you'll get +10. You cannot get points at the current Aiport Station SFX.
