@@ -20,7 +20,7 @@ Everyone picks ups 3 actioncards.
 
 ### GAME PLAY
 
-You can walk max. 5 steps. If you use a transfer station you loose 1 step.
+You can walk max. 5 steps. If you use a transfer station you lose 1 step.
 
 Every round each player can either play a action card or pick up one. You can have max. 5 cards on your hand.
 Before you walk your steps everyone should play a card (if they want to). The person walking is the first one playing a start.
